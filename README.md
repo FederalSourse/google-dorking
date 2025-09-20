@@ -9,17 +9,29 @@ __             _ __       __
 ## manual
 
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git branch -M main
+
 git remote add origin https://github.com/FederalSourse/Google-Dorks.git
+
 git push -u origin mainecho "# Google-Dorks" >> README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git branch -M main
+
 git remote add origin https://github.com/FederalSourse/Google-Dorks.git
+
 git push -u origin main
+
 
 
 # A Personal Collection of InfoSec Dorks
